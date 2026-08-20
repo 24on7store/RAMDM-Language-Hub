@@ -1,0 +1,21 @@
+{
+  "name": "ramdm-language-hub",
+  "version": "1.0.0",
+  "description": "This platform will be an English-learning platform designed primarily for English learners, with additional French expressions/explanations to support French-speaking learners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24on7store/RAMDM-Language-Hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/24on7store/RAMDM-Language-Hub/issues"
+  },
+  "homepage": "https://github.com/24on7store/RAMDM-Language-Hub#readme"
+}
